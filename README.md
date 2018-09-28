@@ -1,2 +1,2 @@
 # showcase
-show case
+show case like online ppt
